@@ -1,6 +1,6 @@
 
 * [Netty3.2用户指南](book/Netty3.2用户指南.md)
-* [ChannelEvent](book/ChannelEvent.md)
+* [ChannelEvent](https://daichangya.github.io/netty3.2-api/org/jboss/netty/channel/ChannelEvent.html)
 * [Netty3.x源码解析](book/Netty3.x源码解析.md)
 * [Netty概述](book/ch1-overview.md)
 * [Netty中的buffer](book/ch2-buffer.md)

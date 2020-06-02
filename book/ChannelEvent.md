@@ -50,7 +50,6 @@ A [`ChannelEvent`](https://docs.jboss.org/netty/3.2/api/org/jboss/netty/channel/
 | `"childChannelClosed"` | [`ChildChannelStateEvent`](https://docs.jboss.org/netty/3.2/api/org/jboss/netty/channel/ChildChannelStateEvent.html "org.jboss.netty.channel中的接口")  （`childChannel.isOpen() = false`） | 一个child [`Channel`](https://docs.jboss.org/netty/3.2/api/org/jboss/netty/channel/Channel.html "org.jboss.netty.channel中的接口")被关闭了（例如，被接受的连接被关闭了。） |
 
 #### downstream events
-
 | 活动名称 | 事件类型和条件 | 含义 |
 | --- | --- | --- |
 | `"write"` | [`MessageEvent`](https://docs.jboss.org/netty/3.2/api/org/jboss/netty/channel/MessageEvent.html "org.jboss.netty.channel中的接口") | 向发送消息[`Channel`](https://docs.jboss.org/netty/3.2/api/org/jboss/netty/channel/Channel.html "org.jboss.netty.channel中的接口")。 |
