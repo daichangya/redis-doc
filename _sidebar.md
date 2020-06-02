@@ -7,3 +7,4 @@
 * [Channel中的Pipeline](book/ch3-pipeline.md)
 * [Netty与Reactor模式](book/ch4-reactor.md)
 * [Netty实战:构建一个socks proxy](book/socks-proxy-by-netty.md)
+* [Netty4 HashedWheelTimer分析](book/Netty-HashedWheelTimer-分析.md)
