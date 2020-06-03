@@ -1,10 +1,11 @@
 
 * [Netty3.2用户指南](book/Netty3.2用户指南.md)
-* [ChannelEvent](https://daichangya.github.io/netty3.2-api/org/jboss/netty/channel/ChannelEvent.html)
+* [3.2 ChannelEvent](https://daichangya.github.io/netty3.2-api/org/jboss/netty/channel/ChannelEvent.html)
 * [Netty3.x源码解析](book/Netty3.x源码解析.md)
 * [Netty概述](book/ch1-overview.md)
 * [Netty中的buffer](book/ch2-buffer.md)
 * [Channel中的Pipeline](book/ch3-pipeline.md)
 * [Netty与Reactor模式](book/ch4-reactor.md)
 * [Netty实战:构建一个socks proxy](book/socks-proxy-by-netty.md)
+* [Netty4.x用户指南](book/Netty4.x用户指南.md)
 * [Netty4 HashedWheelTimer分析](book/Netty-HashedWheelTimer-分析.md)
