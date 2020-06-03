@@ -7,5 +7,7 @@
 * [Channel中的Pipeline](book/ch3-pipeline.md)
 * [Netty与Reactor模式](book/ch4-reactor.md)
 * [Netty实战:构建一个socks proxy](book/socks-proxy-by-netty.md)
+* [Netty4和Netty3对比](book/Netty4和Netty3对比.md)
 * [Netty4.x用户指南](book/Netty4.x用户指南.md)
+* [4.x DefaultPromise](https://daichangya.github.io/netty4.1-api/io/netty/util/concurrent/DefaultPromise.html)
 * [Netty4 HashedWheelTimer分析](book/Netty-HashedWheelTimer-分析.md)
